@@ -1,0 +1,37 @@
+{
+    "name": "e5k1m0/voxsoft-api",
+    "description": "Client PHP officiel pour l'API Voxsoft — accédez à l'argus et à la cote des jeux vidéo en temps réel.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "voxsoft",
+        "voxgaming",
+        "argus",
+        "jeux-video",
+        "cote",
+        "retrogaming",
+        "ean",
+        "api",
+        "prix"
+    ],
+    "homepage": "https://www.voxsoft.fr",
+    "authors": [
+        {
+            "name": "VoxGaming",
+            "email": "hey@voxgaming.fr",
+            "homepage": "https://www.voxgaming.fr"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Voxsoft\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
