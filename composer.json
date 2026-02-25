@@ -1,6 +1,6 @@
 {
     "name": "e5k1m0/voxsoft-api",
-    "description": "Client PHP officiel pour l'API Voxsoft — accédez à l'argus et à la cote des jeux vidéo en temps réel.",
+    "description": "Client PHP officiel pour l'API Voxsoft (voxgaming.fr) — cote argus des jeux vidéo, prix retrogaming loose/CIB, et meilleures offres marketplaces en temps réel.",
     "type": "library",
     "license": "MIT",
     "keywords": [
